@@ -5,11 +5,13 @@ var Calculadora = {
 
     num1 = parseFloat(num1);
     num2 = parseFloat(num2);
-    soma = num1 + num2;
-    return soma;
+    return num1 + num2;;
   },
   subtrair: function(num1, num2) {
-    return 0;
+    if (isNaN(num1) || isNaN(num2))
+      return 0
+
+    return num1 - num2;
   },
   dividir: function(num1, num2) {
     return 0;
