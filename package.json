@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Uso do BDD com Jasmine para desenvolver uma calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodias63/calculadora-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagodias63/calculadora-jasmine/issues"
+  },
+  "homepage": "https://github.com/thiagodias63/calculadora-jasmine#readme"
+}
